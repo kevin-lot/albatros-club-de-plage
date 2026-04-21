@@ -74,23 +74,12 @@ export default function Contact() {
                             <hr />
                             <span className="h3">
                                 <FontAwesomeIcon icon={faPhoneSquare} />
-                                &nbsp;Juillet :{" "}
+                                &nbsp; :{" "}
                                 <a
                                     href="tel:+33661341864"
                                     itemProp="telephone"
                                 >
                                     (+33)6&nbsp;61&nbsp;34&nbsp;18&nbsp;64
-                                </a>
-                            </span>
-                            <br />
-                            <span className="h3">
-                                <FontAwesomeIcon icon={faPhoneSquare} />
-                                &nbsp;Août :{" "}
-                                <a
-                                    href="tel:+33631233913"
-                                    itemProp="telephone"
-                                >
-                                    (+33)6&nbsp;31&nbsp;23&nbsp;39&nbsp;13
                                 </a>
                             </span>
                         </address>
