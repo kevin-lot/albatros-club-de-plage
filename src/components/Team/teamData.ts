@@ -7,12 +7,7 @@ export const teamData: Array<TeamDataInterface> = [
         name: "Goofy",
     },
     {
-        description: "Directeur associé du club de plage, maître nageur diplômé d'état. Titulaire du Master Staps.",
-        image: "/live/img/team/nicolas.jpg",
-        name: "Nicolas",
-    },
-    {
-        description: "Directeur associé du club de plage, maître nageur diplômé d'état. Titulaire du Master Staps.",
+        description: "Directeur du club de plage, maître nageur diplômé d'état. Titulaire du Master Staps.",
         image: "/live/img/team/julien.jpg",
         name: "Julien",
     },
