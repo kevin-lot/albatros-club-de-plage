@@ -7,16 +7,6 @@ export const partnerData: Array<PartnerDataInterface> = [
         name: "Maison Lucas",
     },
     {
-        image: "/live/img/partner/sublimons-logo.png",
-        link: "https://www.sublimons.com/",
-        name: "Sublimons",
-    },
-    {
-        image: "/live/img/partner/la-cour-d-orgeres.png",
-        link: "//www.lacourdorgeres.com/",
-        name: "La Cour D'Orgères",
-    },
-    {
         image: "/live/img/partner/la-belle-iloise.png",
         link: "//www.labelleiloise.fr/",
         name: "La Belle-Îloise",
@@ -40,10 +30,5 @@ export const partnerData: Array<PartnerDataInterface> = [
         image: "/live/img/partner/armorine.jpg",
         link: "https://www.maison-armorine.com/nos-produits/niniches",
         name: "Niniche Quiberon",
-    },
-    {
-        image: "/live/img/partner/maizelledantan.png",
-        link: "https://mamzelledantan.com/",
-        name: "Mai z'elle d'antan Quiberon",
     },
 ];
