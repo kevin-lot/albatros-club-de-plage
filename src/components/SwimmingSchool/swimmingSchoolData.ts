@@ -5,19 +5,19 @@ export const swimmingSchoolPrices: PricesInterface = {
     rows: [
         {
             label: "séance unique",
-            prices: ["20 €", "18 €"],
+            prices: ["22 €", "20 €"],
         },
         {
             label: "stage de 6 leçons",
-            prices: ["115 €", "110 €"],
+            prices: ["120 €", "115 €"],
         },
         {
             label: "stage de 10 leçons",
-            prices: ["175 €", "170 €"],
+            prices: ["180 €", "175 €"],
         },
         {
             label: "stage de 15 leçons",
-            prices: ["220 €", "210 €"],
+            prices: ["240 €", "225 €"],
         },
     ],
 } as const;
