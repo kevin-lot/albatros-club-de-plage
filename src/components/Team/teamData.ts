@@ -40,5 +40,5 @@ export const teamData: Array<TeamDataInterface> = [
         description: "Cheffe de l'Albatros sportif",
         image: "/live/img/team/naomi.jpg",
         name: "Naomi",
-    }
+    },
 ];
