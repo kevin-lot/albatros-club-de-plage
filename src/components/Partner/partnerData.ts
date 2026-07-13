@@ -31,4 +31,24 @@ export const partnerData: Array<PartnerDataInterface> = [
         link: "https://www.maison-armorine.com/nos-produits/niniches",
         name: "Niniche Quiberon",
     },
+    {
+        image: "/live/img/partner/glaz.jpg",
+        link: "https://www.chocolaterieglaz.com/",
+        name: "Chocolaterie Glaz",
+    },
+    {
+        image: "/live/img/partner/iliens.jpg",
+        link: "https://iliens.fr/",
+        name: "Les Iliens",
+    },
+    {
+        image: "/live/img/partner/solmaya.avif",
+        link: "https://solmaya.fr/",
+        name: "Solmaya",
+    },
+    {
+        image: "/live/img/partner/breizhgo.webp",
+        link: "https://oceane.breizhgo.bzh/",
+        name: "Breizhgo Océane",
+    },
 ];
