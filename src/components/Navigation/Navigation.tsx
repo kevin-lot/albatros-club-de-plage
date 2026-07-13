@@ -3,6 +3,7 @@ import React, { Dispatch, SetStateAction } from "react";
 import { Navbar, NavbarToggler, NavbarBrand, Collapse, Nav, NavItem, NavLink } from "reactstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 
 function ItemMenu({
     href,
@@ -147,6 +148,16 @@ export default function Navigation() {
                         >
                             <FontAwesomeIcon icon={faFacebook} />
                             &nbsp;Facebook
+                        </NavLink>
+                    </NavItem>
+                    <NavItem className="text-center">
+                        <NavLink
+                            className={"instagram"}
+                            href={"https://www.instagram.com/AlbatrosClubDePlage"}
+                            target="_blank"
+                        >
+                            <FontAwesomeIcon icon={faInstagram} />
+                            &nbsp;Instagram
                         </NavLink>
                     </NavItem>
                 </Nav>
