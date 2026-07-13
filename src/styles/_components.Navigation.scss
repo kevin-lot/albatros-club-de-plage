@@ -24,6 +24,14 @@
             color: $white;
         }
     }
+    &.instagram {
+        color: $instagram;
+
+        @include hover-focus {
+            background-color: $instagram;
+            color: $white;
+        }
+    }
 }
 
 .nav-pills .nav-link {

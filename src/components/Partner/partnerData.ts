@@ -37,7 +37,7 @@ export const partnerData: Array<PartnerDataInterface> = [
         name: "Chocolaterie Glaz",
     },
     {
-        image: "/live/img/partner/iliens.jpg",
+        image: "/live/img/partner/iliens.png",
         link: "https://iliens.fr/",
         name: "Les Iliens",
     },
