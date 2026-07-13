@@ -153,7 +153,7 @@ export default function Navigation() {
                     <NavItem className="text-center">
                         <NavLink
                             className={"instagram"}
-                            href={"https://www.instagram.com/AlbatrosClubDePlage"}
+                            href={"https://www.instagram.com/clubdeplagealbatros.quiberon/"}
                             target="_blank"
                         >
                             <FontAwesomeIcon icon={faInstagram} />
